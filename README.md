@@ -14,6 +14,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 - [Retrieval Augmented Generation (RAG)](#retrieval-augmented-generation)
 - [Parameter Efficient Fine-Tuning (PEFT)](#parameter-efficient-fine-tuning)
 - [Agent](#agent)
+- [Dataset](#dataset)
 
 ## Prompt engineering
 
@@ -28,6 +29,7 @@ ArXiv, Preprint
 
 
 ## Retrieval Augmented Generation (RAG)
+
 **Searching for Best Practices in Retrieval-Augmented Generation**
 *Xiaohua Wang*
 ArXiv, Preprint
@@ -38,3 +40,24 @@ ArXiv, Preprint
 - Proposal of optimal implementation strategy considering both performance and efficiency
 - Exploring possible extensions to multimodal RAG
 - Presenting the optimal approach for fine-tuning the generator  
+
+
+## Agent
+
+**CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis**
+*Junying Chen1*
+ArXiv, Preprint
+[[PDF](https://arxiv.org/pdf/2407.13301)] [[Code](https://github.com/FreedomIntelligence/Chain-of-Diagnosis)] [[Data](https://huggingface.co/datasets/FreedomIntelligence/DxBench)]
+
+
+## Llama-Clinic
+
+**Adapting Open-Source Large Language Models for Cost-Effective, Expert-Level Clinical Note Generation with On-Policy Reinforcement Learning**
+*Hanyin Wang∗*
+ArXiv, Preprint
+[[PDF](https://arxiv.org/pdf/2405.00715)]
+
+
+
+## Agent
+
