@@ -53,7 +53,7 @@ ArXiv, Preprint
 ## Llama-Clinic
 
 **Adapting Open-Source Large Language Models for Cost-Effective, Expert-Level Clinical Note Generation with On-Policy Reinforcement Learning**
-*Hanyin Wang∗*
+*Hanyin Wang*
 ArXiv, Preprint
 [[PDF](https://arxiv.org/pdf/2405.00715)]
 
