@@ -50,7 +50,27 @@ ArXiv, Preprint
 [[PDF](https://arxiv.org/pdf/2407.13301)] [[Code](https://github.com/FreedomIntelligence/Chain-of-Diagnosis)] [[Data](https://huggingface.co/datasets/FreedomIntelligence/DxBench)]
 
 
-## Llama-Clinic
+## Dataset
+
+**MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine**
+*Yunfei Xie*
+ArXiv, Preprint
+[[PDF](https://arxiv.org/pdf/2408.02900)]
+[[DATA](https://yunfeixie233.github.io/MedTrinity-25M/)]
+- This dataset encompasses medical imaging data across 10 modalities, including CT, MRI, X-Ray, histopathology, and microscopy, covering over 65 different diseases.
+- An automated pipeline utilizing MLLMs has been applied to generate rich multigranular annotations, resulting in an image-ROI-description triplet format.
+
+
+**Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning**
+*Bahare Fatemi*
+ArXiv, Preprint
+[[PDF](https://arxiv.org/pdf/2406.09170)]
+[[DATA](https://huggingface.co/datasets/baharef/ToT)]
+- This paper introduces Google's LLM synthetic benchmark for temporal reasoning, Test of Time (ToT).
+- It addresses the issue with existing temporal reasoning benchmarks, which are based on knowledge graphs of entities that models are already familiar with, allowing models to rely on prior knowledge rather than performing genuine temporal reasoning.
+- The paper identifies two crucial components of temporal reasoning: (1) the ability to understand the semantics and logic of time, and (2) the ability to perform temporal arithmetic. Based on these insights, the benchmark is divided into ToT-Semantic and ToT-Arithmetic.
+
+## Medical LLM
 
 **Adapting Open-Source Large Language Models for Cost-Effective, Expert-Level Clinical Note Generation with On-Policy Reinforcement Learning**
 *Hanyin Wang*
@@ -59,5 +79,4 @@ ArXiv, Preprint
 
 
 
-## Agent
 
